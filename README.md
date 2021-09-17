@@ -16,6 +16,13 @@ Or install it yourself as:
 
     $ gem install middleman-search
 
+## Deployment
+
+New releases of this gem do not get deployed automatically.
+
+The Jenkins job that deploys the middleman-search gem requires manually invoking
+[as per this comment](https://github.com/alphagov/middleman-search/pull/9#issuecomment-630045889).
+
 ## Usage
 
 You need to activate the module in your `config.rb`, telling the extension how to index your resources:

@@ -1,5 +1,5 @@
 # Middleman::Search
-
+...
 LunrJS-based search for Middleman.
 
 ## Installation

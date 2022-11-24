@@ -20,8 +20,7 @@ Or install it yourself as:
 
 New releases of this gem do not get deployed automatically.
 
-The Jenkins job that deploys the middleman-search gem requires manually invoking
-[as per this comment](https://github.com/alphagov/middleman-search/pull/9#issuecomment-630045889).
+To release it you will need to follow the process to [publish to rubygems.org](https://guides.rubygems.org/publishing/#publishing-to-rubygemsorg), using the alphagov credentials - contact someone in GOV.UK senior tech for access.
 
 ## Usage
 
